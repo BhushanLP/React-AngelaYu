@@ -4,7 +4,7 @@ import AppNotes from "./keeper-app/app-notes";
 
 function KeeperApp(){
     return (
-    <div>        
+    <div>
     <AppHeader />
         <AppNotes />
         <AppFooter />
